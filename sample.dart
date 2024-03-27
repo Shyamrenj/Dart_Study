@@ -70,7 +70,6 @@ void main() {
 
 // Display menu option...
   while (true) {
-
     print('\nMenu:');
     print('1. Add Task');
     print('2. View Tasks');
